@@ -1,0 +1,9 @@
+.checkout{
+    background-color: thistle;
+    background: linear-gradient(to top , lightblue, white);
+}
+
+.checkout__ad{
+    width:100%;
+    margin-bottom: 10px;
+}
