@@ -1,0 +1,8 @@
+.login{
+    margin: 0px;
+}
+
+.login__logo{
+    display: flex;
+    align-self: center;
+}
