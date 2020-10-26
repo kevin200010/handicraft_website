@@ -22,7 +22,7 @@ function Header() {
             <input  type="text" className="header__searchInput" />
             <SearchIcon className="header__searchIcon" /> 
         </div>
-        {/* 3 links */}
+        {/* 3     links */}
         <div className="header__nav">
          {/*1st link*/}
          <Link to="/login" className="header__link">

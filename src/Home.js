@@ -35,7 +35,7 @@ function Home() {
                     title="the book by kevin jerejh ejgvre ejyrgje wemrhjehwr emhrjher erhjerh erhkejhr ejrher ejhrkj wejrhkej ekwjhrke kwejhrkewj ejrhkwejh"
                     price={1123}
                     image="https://m.media-amazon.com/images/I/81jgCiNJPUL._AC_UY327_FMwebp_QL65_.jpg"
-                    rating={5} />
+                    rating={5}   />
                 <Product
                     id="1231234"     
                     title="the book by kevin jerejh ejgvre ejyrgje wemrhjehwr emhrjher erhjerh erhkejhr ejrher ejhrkj wejrhkej ekwjhrke kwejhrkewj ejrhkwejh"
