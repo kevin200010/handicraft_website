@@ -3,6 +3,8 @@ import { useStateValue } from './StateProvider';
 import  CheckoutProduct from "./CheckoutProduct";
 import  "./Checkout.css";
 
+
+
 function Checkout() {
     const [{ basket }] = useStateValue();
     return (
@@ -33,11 +35,13 @@ function Checkout() {
                         )
                         
                     })}
-                    
+
                 </div>
             )}
         </div>
     );
 }
+
+
 
 export default Checkout
