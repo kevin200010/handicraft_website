@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf98f0531a95946a1944603d1877f87e",
+    "revision": "ca92f7add2b2a52913450c49f82ed95c",
     "url": "/handicraft_website/index.html"
   },
   {
-    "revision": "69cf57f9759105af740d",
-    "url": "/handicraft_website/static/css/main.db37a962.chunk.css"
+    "revision": "b4a55760360e6b825096",
+    "url": "/handicraft_website/static/css/main.6089fdcf.chunk.css"
   },
   {
     "revision": "0293409a65277dbcd3b6",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/handicraft_website/static/js/2.2b09772d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "69cf57f9759105af740d",
+    "revision": "b4a55760360e6b825096",
     "url": "/handicraft_website/static/js/main.cde555b4.chunk.js"
   },
   {
