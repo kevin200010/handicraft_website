@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/handicraft_website/static/css/main.05ac1ade.chunk.css",
+    "main.css": "/handicraft_website/static/css/main.db37a962.chunk.css",
     "main.js": "/handicraft_website/static/js/main.cde555b4.chunk.js",
     "main.js.map": "/handicraft_website/static/js/main.cde555b4.chunk.js.map",
     "runtime-main.js": "/handicraft_website/static/js/runtime-main.204eadaf.js",
@@ -8,15 +8,15 @@
     "static/js/2.2b09772d.chunk.js": "/handicraft_website/static/js/2.2b09772d.chunk.js",
     "static/js/2.2b09772d.chunk.js.map": "/handicraft_website/static/js/2.2b09772d.chunk.js.map",
     "index.html": "/handicraft_website/index.html",
-    "precache-manifest.ebaad19a6c75e7629021608e906d031f.js": "/handicraft_website/precache-manifest.ebaad19a6c75e7629021608e906d031f.js",
+    "precache-manifest.2d4eb1388df271b29bd5c296bddf7f44.js": "/handicraft_website/precache-manifest.2d4eb1388df271b29bd5c296bddf7f44.js",
     "service-worker.js": "/handicraft_website/service-worker.js",
-    "static/css/main.05ac1ade.chunk.css.map": "/handicraft_website/static/css/main.05ac1ade.chunk.css.map",
+    "static/css/main.db37a962.chunk.css.map": "/handicraft_website/static/css/main.db37a962.chunk.css.map",
     "static/js/2.2b09772d.chunk.js.LICENSE.txt": "/handicraft_website/static/js/2.2b09772d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.204eadaf.js",
     "static/js/2.2b09772d.chunk.js",
-    "static/css/main.05ac1ade.chunk.css",
+    "static/css/main.db37a962.chunk.css",
     "static/js/main.cde555b4.chunk.js"
   ]
 }
