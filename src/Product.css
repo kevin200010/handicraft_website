@@ -13,7 +13,9 @@
     z-index: 1;
 }
 
-
+.product:hover{
+    border: 10px black;
+}
 .product__info{
     height: 100px;
     margin-bottom: 15px;
@@ -34,6 +36,10 @@
     margin-bottom: 20px ;
     
     
+}
+.product__name{
+    font-weight: 700;
+    font-size: 1.5vw;
 }
 .product__price{
     margin-top: 5px;

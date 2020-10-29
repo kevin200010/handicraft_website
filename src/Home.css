@@ -9,8 +9,33 @@
     margin-left: 5px;
     margin-right: 5px; 
 }
+
+.container{
+    position: relative;
+  /* text-align: center; */
+  
+  
+}
+.home_name{
+  position: absolute;
+  font-size: 6vw;
+  top: 50%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+}
+.home_name_bellow{
+    position: absolute;
+    font-size: 2vw;
+    top: 60%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+  }
 .home__image{
+
     width: 100%;
+    /* position: absolute; */
+    /* top: 0%;     */
+   
     /* margin: 0% 2.5%; */
     /* border-radius: 10px; */
     mask-image: linear-gradient(to bottom,rgba(0,0,0,1) , rgba(0,0,0,0.2));

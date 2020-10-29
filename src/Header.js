@@ -14,8 +14,8 @@ function Header() {
          {/*logo on the left */}
         <Link to="/">
             
-        <img class="header__logo" src="htps://toppng.com/uploads/preview/craft-kits-and-craft-supplies-for-all-ages-craft-shop-logo-ideas-11563182234qeqqxcp8t4.png" 
-        alt="logo"/>
+        <img class="header__logo" src="https://img2.pngio.com/handicraft-png-logo-handicraft-logo-transparent-png-handicraft-logo-png-840_424.png" 
+        alt="logo"></img>
         </Link>
         {/*search box*/}
         <div className="header__search">

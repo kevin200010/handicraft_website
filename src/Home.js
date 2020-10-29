@@ -4,25 +4,34 @@ import Product from "./Product";
 
 function Home() {
     return (
+        
         <div className="home">
-            <img className="home__image"
-            src="https://www.craftexporters.com/img/home_slider/1548406431_1522157452-main-banner-1-1902x610.jpg">
-            </img>
 
+
+
+            <div class= "container">
+            
+                <img className="home__image"
+                src="https://lh3.googleusercontent.com/proxy/tGkBDJUca3NE_cEOfH4GVVb_EiVOJiqpE7X-2SoRcVBEgVr_Zxof0eFVu-u-6ldVW_fl-dIdsVWCcf9h4OzDkq1sMvO17vE9Nz-u1ogkygVo6T6ka6UlVtRi5fScY4q7CeY5lgGsnQI">
+                </img>
+                < div class="home_name">Handmade</div>
+                <div class = "home_name_bellow" >Indian handicraft shop</div>
+                
+            </div>
                 {/* PRoduct id,title,price,rating, image */}
             <div className="home__row">
             {/* product */}
                 <Product
                     id="1231234"     
-                    title="the book by kevin jerejh ejgvre ejyrgje wemrhjehwr emhrjher erhjerh erhkejhr ejrher ejhrkj wejrhkej ekwjhrke kwejhrkewj ejrhkwejh"
+                    title="Home-Decor"
                     price={1123}
-                    image="https://m.media-amazon.com/images/I/81jgCiNJPUL._AC_UY327_FMwebp_QL65_.jpg"
+                    image="https://cpimg.tistatic.com/05126376/b/4/4-Set-Of-Indian-Handicraft-Home-Decor-Golden-Polish-Labor-Lady-Statue-Decorative-Craft-Item.jpg"
                     rating={5} />
                 <Product
                     id="1231234"     
-                    title="the book by kevin jerejh ejgvre ejyrgje wemrhjehwr emhrjher erhjerh erhkejhr ejrher ejhrkj wejrhkej ekwjhrke kwejhrkewj ejrhkwejh"
+                    title="Painting"
                     price={1123}
-                    image="https://m.media-amazon.com/images/I/81jgCiNJPUL._AC_UY327_FMwebp_QL65_.jpg"
+                    image="https://5.imimg.com/data5/TestImages/DB/PE/MQ/SELLER-2943039/marble-candle-stand-500x500.jpg"
                     rating={4} />
              
                 
@@ -32,21 +41,21 @@ function Home() {
             {/* product */}
                 <Product
                     id="1231234"     
-                    title="the book by kevin jerejh ejgvre ejyrgje wemrhjehwr emhrjher erhjerh erhkejhr ejrher ejhrkj wejrhkej ekwjhrke kwejhrkewj ejrhkwejh"
+                    title="Pure Clay Items"
                     price={1123}
-                    image="https://m.media-amazon.com/images/I/81jgCiNJPUL._AC_UY327_FMwebp_QL65_.jpg"
+                    image="https://i.pinimg.com/originals/d1/14/ba/d114baaae13158ef5b98283603dcd3cc.jpg"
                     rating={5}   />
                 <Product
                     id="1231234"     
-                    title="the book by kevin jerejh ejgvre ejyrgje wemrhjehwr emhrjher erhjerh erhkejhr ejrher ejhrkj wejrhkej ekwjhrke kwejhrkewj ejrhkwejh"
+                    title="Wooden Work"
                     price={1123}
-                    image="https://m.media-amazon.com/images/I/81jgCiNJPUL._AC_UY327_FMwebp_QL65_.jpg"
+                    image="https://4.imimg.com/data4/YW/TW/MY-18751438/owl-wooden-handicraft-500x500.png"
                     rating={4} />
                 <Product
                     id="1231234"     
-                    title="the book by kevin jerejh ejgvre ejyrgje wemrhjehwr emhrjher erhjerh erhkejhr ejrher ejhrkj wejrhkej ekwjhrke kwejhrkewj ejrhkwejh"
+                    title="Emberodiary Work"
                     price={1123}
-                    image="https://m.media-amazon.com/images/I/81jgCiNJPUL._AC_UY327_FMwebp_QL65_.jpg"
+                    image="https://i.pinimg.com/564x/78/94/ec/7894ece12bf6be418b6e3c6217c386e5.jpg"
                     rating={4} />
                 
             </div> 
@@ -54,9 +63,9 @@ function Home() {
             {/* product */}
                 <Product
                     id="1231234"     
-                    title="the book by kevin jerejh ejgvre ejyrgje wemrhjehwr emhrjher erhjerh erhkejhr ejrher ejhrkj wejrhkej ekwjhrke kwejhrkewj ejrhkwejh"
+                    title="Best Handicraft Collection"
                     price={1123}
-                    image="https://m.media-amazon.com/images/I/81jgCiNJPUL._AC_UY327_FMwebp_QL65_.jpg"
+                    image="https://www.spectrahut.com/media/wysiwyg/spectrahut/indian-handicrafts-online-shopping.jpg"
                     rating={5} />
                 
                 
@@ -65,27 +74,27 @@ function Home() {
             {/* product */}
                 <Product
                     id="1231234"     
-                    title="the book by kevin jerejh ejgvre ejyrgje wemrhjehwr emhrjher erhjerh erhkejhr ejrher ejhrkj wejrhkej ekwjhrke kwejhrkewj ejrhkwejh"
+                    title="Ciramic Items"
                     price={1123}
-                    image="https://m.media-amazon.com/images/I/81jgCiNJPUL._AC_UY327_FMwebp_QL65_.jpg"
+                    image="https://5.imimg.com/data5/HE/QF/MY-11408137/decorative-flower-vase-500x500.jpg"
                     rating={5} />
                 <Product
                     id="1231234"     
-                    title="the book by kevin jerejh ejgvre ejyrgje wemrhjehwr emhrjher erhjerh erhkejhr ejrher ejhrkj wejrhkej ekwjhrke kwejhrkewj ejrhkwejh"
+                    title="Bamboo Items"
                     price={1123}
-                    image="https://m.media-amazon.com/images/I/81jgCiNJPUL._AC_UY327_FMwebp_QL65_.jpg"
+                    image="https://n4.sdlcdn.com/imgs/a/n/7/Asaram-Handicrafts-Brown-Bamboo-Handmade-SDL689254357-1-d1e55.jpg"
                     rating={4} />
                 <Product
                     id="1231234"     
-                    title="the book by kevin jerejh ejgvre ejyrgje wemrhjehwr emhrjher erhjerh erhkejhr ejrher ejhrkj wejrhkej ekwjhrke kwejhrkewj ejrhkwejh"
+                    title="Matel Items"
                     price={1123}
-                    image="https://m.media-amazon.com/images/I/81jgCiNJPUL._AC_UY327_FMwebp_QL65_.jpg"
+                    image="https://5.imimg.com/data5/LE/KO/MY-40858424/metal-handicraft-500x500.jpg"
                     rating={5} />    
                 <Product
                     id="1231234"     
-                    title="the book by kevin jerejh ejgvre ejyrgje wemrhjehwr emhrjher erhjerh erhkejhr ejrher ejhrkj wejrhkej ekwjhrke kwejhrkewj ejrhkwejh"
+                    title="Leather Work"
                     price={1123}
-                    image="https://m.media-amazon.com/images/I/81jgCiNJPUL._AC_UY327_FMwebp_QL65_.jpg"
+                    image="https://www.delhigifthouse.com/handicrafts/bags/lbg021.jpg"
                     rating={4} />
                 
             </div>  

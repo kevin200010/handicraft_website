@@ -1,9 +1,12 @@
 import React from 'react'
+import Header from './Header'
 
-export const Type_Product = () => {
+
+function Type_Product(){
     return (
         <div className = "type_product">
             <p>this is tyepr product page</p>
         </div>
     )
 }
+export default Type_Product
