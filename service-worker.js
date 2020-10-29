@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/handicraft_website/precache-manifest.222119208d942d7dbc5dfb1bec3a7e28.js"
+  "/handicraft_website/precache-manifest.73817eba8bc328ea44b0bcbeb236dbd6.js"
 );
 
 self.addEventListener('message', (event) => {

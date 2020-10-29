@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/handicraft_website/static/css/main.6089fdcf.chunk.css",
-    "main.js": "/handicraft_website/static/js/main.cde555b4.chunk.js",
-    "main.js.map": "/handicraft_website/static/js/main.cde555b4.chunk.js.map",
+    "main.css": "/handicraft_website/static/css/main.80b12b81.chunk.css",
+    "main.js": "/handicraft_website/static/js/main.c37a638d.chunk.js",
+    "main.js.map": "/handicraft_website/static/js/main.c37a638d.chunk.js.map",
     "runtime-main.js": "/handicraft_website/static/js/runtime-main.204eadaf.js",
     "runtime-main.js.map": "/handicraft_website/static/js/runtime-main.204eadaf.js.map",
     "static/js/2.2b09772d.chunk.js": "/handicraft_website/static/js/2.2b09772d.chunk.js",
     "static/js/2.2b09772d.chunk.js.map": "/handicraft_website/static/js/2.2b09772d.chunk.js.map",
     "index.html": "/handicraft_website/index.html",
-    "precache-manifest.222119208d942d7dbc5dfb1bec3a7e28.js": "/handicraft_website/precache-manifest.222119208d942d7dbc5dfb1bec3a7e28.js",
+    "precache-manifest.73817eba8bc328ea44b0bcbeb236dbd6.js": "/handicraft_website/precache-manifest.73817eba8bc328ea44b0bcbeb236dbd6.js",
     "service-worker.js": "/handicraft_website/service-worker.js",
-    "static/css/main.6089fdcf.chunk.css.map": "/handicraft_website/static/css/main.6089fdcf.chunk.css.map",
+    "static/css/main.80b12b81.chunk.css.map": "/handicraft_website/static/css/main.80b12b81.chunk.css.map",
     "static/js/2.2b09772d.chunk.js.LICENSE.txt": "/handicraft_website/static/js/2.2b09772d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.204eadaf.js",
     "static/js/2.2b09772d.chunk.js",
-    "static/css/main.6089fdcf.chunk.css",
-    "static/js/main.cde555b4.chunk.js"
+    "static/css/main.80b12b81.chunk.css",
+    "static/js/main.c37a638d.chunk.js"
   ]
 }
